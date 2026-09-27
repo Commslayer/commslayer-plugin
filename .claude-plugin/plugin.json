@@ -1,0 +1,19 @@
+{
+  "name": "commslayer",
+  "displayName": "Commslayer",
+  "version": "1.0.0",
+  "description": "Connect your Commslayer helpdesk and write AI agent guidance that follows Commslayer's rules: read tickets, knowledge and settings, draft and lint guidance, and test it in the AI Playground before it reaches customers.",
+  "author": {
+    "name": "Commslayer",
+    "url": "https://www.commslayer.com"
+  },
+  "homepage": "https://docs.commslayer.com/en/articles/1768296514-connect-claude-and-chatgpt-via-mc",
+  "repository": "https://github.com/Commslayer/commslayer-plugin",
+  "license": "MIT",
+  "keywords": [
+    "customer-support",
+    "helpdesk",
+    "shopify",
+    "ai-agent"
+  ]
+}

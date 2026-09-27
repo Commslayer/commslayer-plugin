@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "commslayer": {
+      "type": "http",
+      "url": "https://app.commslayer.com/api/v1/mcp"
+    }
+  }
+}

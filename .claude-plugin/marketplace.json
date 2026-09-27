@@ -1,0 +1,15 @@
+{
+  "name": "commslayer",
+  "description": "Commslayer's plugin for Claude: the Commslayer connector and its AI agent guidance skill",
+  "owner": {
+    "name": "Commslayer",
+    "url": "https://www.commslayer.com"
+  },
+  "plugins": [
+    {
+      "name": "commslayer",
+      "source": "./",
+      "description": "Commslayer connector and AI agent guidance skill"
+    }
+  ]
+}
