@@ -1,7 +1,7 @@
 {
   "name": "commslayer",
   "displayName": "Commslayer",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Connect your Commslayer helpdesk and write AI agent guidance that follows Commslayer's rules: read tickets, knowledge and settings, draft and lint guidance, and test it in the AI Playground before it reaches customers.",
   "author": {
     "name": "Commslayer",

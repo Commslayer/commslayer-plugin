@@ -135,3 +135,4 @@ Don't:
 * Test in the playground against relevant past conversations, or create a new test conversation. Make sure the intended guidance is active, then review the reply, the matched guidance and the action log, and suggest improvements. [references/testing.md](references/testing.md) has the tool steps.
 * Confirm with the merchant which channels the guidance should run on.
 * A week after launch, check `reports_ai_agent_guidance`. Review any guidance with a handover rate above about 80%.
+* A week or two after a change to live guidance, read `reports_ai_agent_guidance_trends` for that guidance. Compare the version before the change with the one after it. Call a difference real only when the last change is meaningful. With fewer conversations, rates move by chance.
