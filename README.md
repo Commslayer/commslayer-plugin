@@ -1,6 +1,19 @@
 # Commslayer
 
-Commslayer is a helpdesk and AI support agent for Shopify stores. This plugin connects Claude to your Commslayer account and teaches it how to write guidance for the Commslayer AI agent, so the guidance it drafts follows the same rules the Commslayer team uses.
+Commslayer is an affordable helpdesk and AI support agent for Shopify stores. Email, live chat, Instagram, Messenger, WhatsApp, TikTok and phone calls all land in one inbox, with the customer's Shopify orders next to every conversation. The AI agent answers customers on all of those channels.
+
+Connect Commslayer to Claude and run your support from the chat:
+
+- Reply to customers, and assign, label, snooze or close tickets
+- Search your whole support history by topic, channel, label or date
+- Train your AI agent: edit its guidance and actions, then test the changes before customers see them
+- See what the AI agent couldn't answer and write the missing answers
+- Turn support threads into help center articles
+- Set up saved replies, macros, automation rules and labels
+- Check the Shopify order, customer and subscription behind a ticket (read-only)
+- Ask for reports on volume, response times, CSAT and AI agent performance
+
+You can see and change the same things your Commslayer role allows. Requires a Commslayer account. Works on every Commslayer plan.
 
 ## What it adds
 
